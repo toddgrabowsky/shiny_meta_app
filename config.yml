@@ -1,0 +1,37 @@
+# config file for setting up Shiny App Buttons
+app1:
+ title: "App #1"
+ icon: "cube"
+ link: "http://www.google.com"
+ caption: "This is the first app"
+ tooltip: "This is a tooltip"
+app2:
+ title: "App #2"
+ icon: "line-chart"
+ link: "http://github.com"
+ caption: "This is the second app"
+ tooltip: "This is another tooltip"
+app3:
+ title: "App #3"
+ icon: "bar-chart"
+ link: "http://bing.com"
+ caption: "This is the third app"
+ tooltip: "Thi is yet another tooltip"
+app4:
+ title: "App #4"
+ icon: "cube"
+ link: "http://www.google.com"
+ caption: "This is the first app"
+ tooltip: "This is a tooltip"
+app5:
+ title: "App #5"
+ icon: "line-chart"
+ link: "http://github.com"
+ caption: "This is the second app"
+ tooltip: "This is another tooltip"
+app6:
+ title: "App #6"
+ icon: "bar-chart"
+ link: "http://bing.com"
+ caption: "This is the third app"
+ tooltip: "Thi is yet another tooltip"
